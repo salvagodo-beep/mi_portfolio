@@ -25,3 +25,12 @@ Hablo español, francés e inglés.
 
 
 Perfil de LinkedIn: https://www.linkedin.com/in/salvadorgodoserrano/
+
+
+
+\## Habilidades
+
+* Git y GitHub
+* HTML y CSS
+* JavaScript
+
